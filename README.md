@@ -16,4 +16,4 @@
 
 可以前往博客查看 [使用教程](https://blog.emovpn.xyz/)
 
-欢迎大家补充软件或编写教程，一经采纳可以获 [EMOVPN官网](https://yyds.emovpn.top/) 会员一个月
+欢迎大家补充软件或编写教程，一经采纳可以获 [EMOVPN官网](https://yyds.emovpn.top/#/register?code=MnAj6eL2) 会员一个月
