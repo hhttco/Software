@@ -10,3 +10,6 @@
 - [NekoBox-1.4.1-x86](https://github.com/hhttco/Software/releases/download/v1.0.0/NekoBox-1.4.1-x86.apk)
 - [NekoBox-1.4.1-armeabi-v7a](https://github.com/hhttco/Software/releases/download/v1.0.0/NekoBox-1.4.1-armeabi-v7a.apk)
 - [NekoBox-1.4.1-arm64-v8a](https://github.com/hhttco/Software/releases/download/v1.0.0/NekoBox-1.4.1-arm64-v8a.apk)
+
+## Mac
+- [ClashX.dmg-v1.96.2](https://github.com/hhttco/Software/releases/download/v1.0.0/ClashX.dmg)
