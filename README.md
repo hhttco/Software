@@ -6,6 +6,7 @@
 
 ## Windows Clash
 - [Clash.for.Windows.0.20.39](https://github.com/hhttco/Software/releases/download/v1.0.0/Clash.for.Windows.Setup.0.20.39_Opt-3.exe)
+- 新站点HY2协议的如果上面的用不了找一下：clash-verge-rev
 
 ## 安卓(以下哪个都可以，推荐使用第一个)
 - [Clash-for-android](https://github.com/hhttco/Software/releases/download/v1.0.0/Clash-for-android.apk)
